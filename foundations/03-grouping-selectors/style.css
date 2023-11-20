@@ -1,0 +1,18 @@
+.yesbutton,
+.nobutton {
+font-size: 28px;
+font-family: Helvetica, 'Times New Roman', serif;
+
+}
+
+.yesbutton {
+
+    background-color: aquamarine;
+    color: white;
+
+}
+
+.nobutton {
+
+    background-color: darkred;
+}
